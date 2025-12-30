@@ -1,0 +1,1543 @@
+[
+  {
+    "id": "NEET_BIO_001",
+    "topic": "Cell Cycle",
+    "difficulty": 2,
+    "question": "During which phase of the cell cycle does DNA replication occur?",
+    "options": [
+      "G1 phase",
+      "S phase",
+      "G2 phase",
+      "M phase"
+    ],
+    "correct": "S phase",
+    "common_wrong": [
+      "G2 phase"
+    ],
+    "misconception": "Confusing growth phases with replication",
+    "error_type": "conceptual"
+  },
+  {
+    "id": "NEET_BIO_002",
+    "topic": "Genetics",
+    "difficulty": 3,
+    "question": "A heterozygous tall plant is crossed with a dwarf plant. What fraction of offspring will be tall?",
+    "options": [
+      "0%",
+      "25%",
+      "50%",
+      "75%"
+    ],
+    "correct": "50%",
+    "common_wrong": [
+      "75%"
+    ],
+    "misconception": "Applying dihybrid ratio to monohybrid cross",
+    "error_type": "reasoning"
+  },
+  {
+    "id": "NEET_BIO_003",
+    "topic": "Photosynthesis",
+    "difficulty": 4,
+    "question": "Which of the following is NOT a product of the light reaction?",
+    "options": [
+      "ATP",
+      "NADPH",
+      "Oxygen",
+      "Glucose"
+    ],
+    "correct": "Glucose",
+    "common_wrong": [
+      "ATP"
+    ],
+    "misconception": "Mixing light reaction with Calvin cycle",
+    "error_type": "conceptual"
+  },
+  {
+    "id": "NEET_BIO_004",
+    "topic": "Human Physiology",
+    "difficulty": 3,
+    "question": "Which hormone regulates blood calcium levels?",
+    "options": [
+      "Thyroxine",
+      "Calcitonin",
+      "Insulin",
+      "Adrenaline"
+    ],
+    "correct": "Calcitonin",
+    "common_wrong": [
+      "Thyroxine"
+    ],
+    "misconception": "Assuming metabolism hormones regulate minerals",
+    "error_type": "conceptual"
+  },
+  {
+    "id": "NEET_BIO_005",
+    "topic": "Evolution",
+    "difficulty": 2,
+    "question": "Which process leads to evolution of populations?",
+    "options": [
+      "Mutation",
+      "Adaptation",
+      "Natural Selection",
+      "All of these"
+    ],
+    "correct": "All of these",
+    "common_wrong": [
+      "Natural Selection"
+    ],
+    "misconception": "Ignoring multi-factor evolution",
+    "error_type": "conceptual"
+  },
+  {
+    "id": "NEET_PHY_001",
+    "topic": "Electrostatics",
+    "difficulty": 3,
+    "question": "What happens to the force between two charges if distance is doubled?",
+    "options": [
+      "Becomes half",
+      "Becomes one-fourth",
+      "Becomes double",
+      "No change"
+    ],
+    "correct": "Becomes one-fourth",
+    "common_wrong": [
+      "Becomes half"
+    ],
+    "misconception": "Linear vs inverse square relation",
+    "error_type": "formula_misuse"
+  },
+  {
+    "id": "NEET_PHY_002",
+    "topic": "Thermodynamics",
+    "difficulty": 4,
+    "question": "In an isothermal process, which quantity remains constant?",
+    "options": [
+      "Pressure",
+      "Volume",
+      "Temperature",
+      "Internal energy"
+    ],
+    "correct": "Temperature",
+    "common_wrong": [
+      "Internal energy"
+    ],
+    "misconception": "Confusing isothermal with adiabatic",
+    "error_type": "conceptual"
+  },
+  {
+    "id": "NEET_CHEM_001",
+    "topic": "Chemical Bonding",
+    "difficulty": 3,
+    "question": "Which bond is formed by sharing of electrons?",
+    "options": [
+      "Ionic",
+      "Covalent",
+      "Hydrogen",
+      "Metallic"
+    ],
+    "correct": "Covalent",
+    "common_wrong": [
+      "Ionic"
+    ],
+    "misconception": "Misunderstanding electron transfer vs sharing",
+    "error_type": "conceptual"
+  },
+  {
+    "id": "NEET_CHEM_002",
+    "topic": "Organic Chemistry",
+    "difficulty": 4,
+    "question": "Which reagent is used to test for unsaturation?",
+    "options": [
+      "Fehling\u00e2\u20ac\u2122s solution",
+      "Bromine water",
+      "Tollen\u00e2\u20ac\u2122s reagent",
+      "Benedict\u00e2\u20ac\u2122s solution"
+    ],
+    "correct": "Bromine water",
+    "common_wrong": [
+      "Fehling\u00e2\u20ac\u2122s solution"
+    ],
+    "misconception": "Confusing functional group tests",
+    "error_type": "conceptual"
+  },
+  {
+    "id": "NEET_CHEM_003",
+    "topic": "Thermochemistry",
+    "difficulty": 3,
+    "question": "Enthalpy change at constant pressure is equal to?",
+    "options": [
+      "Heat absorbed",
+      "Work done",
+      "Internal energy",
+      "Entropy change"
+    ],
+    "correct": "Heat absorbed",
+    "common_wrong": [
+      "Internal energy"
+    ],
+    "misconception": "Mixing \u00ce\u201dH and \u00ce\u201dU",
+    "error_type": "formula_confusion"
+  },
+  {
+    "id": "ML_001",
+    "topic": "Embeddings",
+    "difficulty": 3,
+    "question": "Why is cosine similarity preferred over Euclidean distance for embeddings?",
+    "options": [
+      "It measures orientation not magnitude",
+      "It is faster to compute",
+      "It handles larger vectors",
+      "It is more accurate"
+    ],
+    "correct": "It measures orientation not magnitude",
+    "common_wrong": [
+      "It is more accurate"
+    ],
+    "misconception": "Assuming magnitude carries semantic meaning",
+    "error_type": "conceptual"
+  },
+  {
+    "id": "ML_002",
+    "topic": "Model Evaluation",
+    "difficulty": 3,
+    "question": "What does high variance indicate in a model?",
+    "options": [
+      "Overfitting",
+      "Underfitting",
+      "Good generalization",
+      "High bias"
+    ],
+    "correct": "Overfitting",
+    "common_wrong": [
+      "Underfitting"
+    ],
+    "misconception": "Confusing bias and variance",
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_0",
+    "topic": "Urinary tract",
+    "difficulty": 3,
+    "question": "Chronic urethral obstruction due to benign prismatic hyperplasia can lead to the following change in kidney parenchyma",
+    "options": [
+      "Hyperplasia",
+      "Hyperophy",
+      "Atrophy",
+      "Dyplasia"
+    ],
+    "correct": "Hyperophy",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_1",
+    "topic": "Vitamins and Minerals",
+    "difficulty": 3,
+    "question": "Which vitamin is supplied from only animal source:",
+    "options": [
+      "Vitamin C",
+      "Vitamin B7",
+      "Vitamin B12",
+      "Vitamin D"
+    ],
+    "correct": "Vitamin B7",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_2",
+    "topic": "Surgical Treatment Obesity",
+    "difficulty": 3,
+    "question": "All of the following are surgical options for morbid obesity except -",
+    "options": [
+      "Adjustable gastric banding",
+      "Biliopancreatic diversion",
+      "Duodenal Switch",
+      "Roux en Y Duodenal By pass"
+    ],
+    "correct": "Duodenal Switch",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_4",
+    "topic": "Physiology",
+    "difficulty": 3,
+    "question": "Growth hormone has its effect on growth through?",
+    "options": [
+      "Directly",
+      "IG1-1",
+      "Thyroxine",
+      "Intranuclear receptors"
+    ],
+    "correct": "Directly",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_5",
+    "topic": "Social & Preventive Medicine",
+    "difficulty": 3,
+    "question": "Scrub typhus is transmitted by: September 2004",
+    "options": [
+      "Louse",
+      "Tick",
+      "Mite",
+      "Milk"
+    ],
+    "correct": "Tick",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_6",
+    "topic": "Gynaecology & Obstetrics",
+    "difficulty": 3,
+    "question": "Abnormal vascular patterns seen with colposcopy in case of cervical intraepithelial neoplasia  are all except",
+    "options": [
+      "Punctation",
+      "Mosaicism",
+      "Satellite lesions",
+      "Atypical vessels"
+    ],
+    "correct": "Mosaicism",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_7",
+    "topic": "Urology",
+    "difficulty": 3,
+    "question": "Per rectum examination is not a useful test for diagnosis of",
+    "options": [
+      "Anal fissure",
+      "Hemorrhoid",
+      "Pilonidal sinus",
+      "Rectal ulcer"
+    ],
+    "correct": "Hemorrhoid",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_8",
+    "topic": "Anaesthesia",
+    "difficulty": 3,
+    "question": "Characteristics of Remifentanyl \u2013 a) Metabolised by plasma esteraseb) Short half lifec) More potent than Alfentanyld) Dose reduced in hepatic and renal diseasee) Duration of action more than Alfentanyl",
+    "options": [
+      "ab",
+      "bc",
+      "abc",
+      "bcd"
+    ],
+    "correct": "bc",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_9",
+    "topic": "Psychiatry",
+    "difficulty": 3,
+    "question": "Hypomimia is ?",
+    "options": [
+      "Decreased ability to copy",
+      "Decreased execution",
+      "Deficit of expression by gesture",
+      "Deficit of fluent speech"
+    ],
+    "correct": "Decreased execution",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_10",
+    "topic": "Bacteriology",
+    "difficulty": 3,
+    "question": "Naglers reaction is shown by",
+    "options": [
+      "Clostridium tetani",
+      "Clostridium botulinum",
+      "Clostridium perfringens",
+      "Clostridium septicum"
+    ],
+    "correct": "Clostridium botulinum",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_11",
+    "topic": "Medicine",
+    "difficulty": 3,
+    "question": "Which of the following statements are True/False? 1. Hirsutism, which is defined as androgen-dependent excessive male pattern hair growth, affects approximately 25% of women. 2. Virilization refers to a condition in which androgen levels are sufficiently high to cause additional signs and symptoms. 3. Frequently, patients with growth hormone excess (i.e., acromegaly) present with hirsutism. 4. A simple and commonly used method to grade hair growth is the modified scale of Ferriman and Gallwey. 5. Scores above 8 suggest excess androgen-mediated hair growth.",
+    "options": [
+      "1, 2, 3 True & 4, 5 false",
+      "1, 3, 5 True & 2, 4 false",
+      "2, 4, 5 True & 1, 3 false",
+      "1, 2, 3, 4 True & 5 false"
+    ],
+    "correct": "1, 3, 5 True & 2, 4 false",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_12",
+    "topic": "General anatomy",
+    "difficulty": 3,
+    "question": "The pharmakokinetic change occurring in geriatric patient is due to",
+    "options": [
+      "Gastric absorption",
+      "Liver metabolism",
+      "Renal clearance",
+      "Hypersensitivity"
+    ],
+    "correct": "Liver metabolism",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_14",
+    "topic": "Surgery",
+    "difficulty": 3,
+    "question": "A 60 yr old chronic smoker presents with painless gross hematuria of 1 day duration. Investigation of choice to know the cause of hematuria",
+    "options": [
+      "USG",
+      "X-ray KUB",
+      "Urine routine",
+      "Urine microscopy for malignant cytology cells"
+    ],
+    "correct": "Urine routine",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_15",
+    "topic": "Pharmacology",
+    "difficulty": 3,
+    "question": "With which of the following receptors theophylline has an antagonistic interaction ?",
+    "options": [
+      "Histamine receptors",
+      "Bradykinin receptors",
+      "Adenosine receptors",
+      "Imidazoline receptors"
+    ],
+    "correct": "Bradykinin receptors",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_19",
+    "topic": "Embryology",
+    "difficulty": 3,
+    "question": "Superior vena cava is derived from:",
+    "options": [
+      "Aortic arch",
+      "Pharyngeal arch",
+      "Cardinal vein",
+      "Vitelline vein"
+    ],
+    "correct": "Pharyngeal arch",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_21",
+    "topic": "ENT",
+    "difficulty": 3,
+    "question": "Position of vocal cord in cadaver is:",
+    "options": [
+      "Median",
+      "Paramedian",
+      "Intermediate",
+      "Full Abduction"
+    ],
+    "correct": "Paramedian",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_22",
+    "topic": "Microbiology",
+    "difficulty": 3,
+    "question": "Organisms that has not been cultured successfully so far is-",
+    "options": [
+      "Leptospira",
+      "Treponema pallidum",
+      "Bordetella",
+      "Staphylococcus"
+    ],
+    "correct": "Leptospira",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_23",
+    "topic": "Non communicable diseases",
+    "difficulty": 3,
+    "question": "Normal waist hip ratio of a female is below",
+    "options": [
+      "0.7",
+      "0.8",
+      "0.9",
+      "1"
+    ],
+    "correct": "0.7",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_24",
+    "topic": "Kidney",
+    "difficulty": 3,
+    "question": "The most common cause of renal scaring in a 3 year old child is -",
+    "options": [
+      "Trauma",
+      "Tuberculosis",
+      "Vesicoureteral reflux induced pyelonephritis",
+      "Interstitial nephritis"
+    ],
+    "correct": "Tuberculosis",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_25",
+    "topic": "Poisoning",
+    "difficulty": 3,
+    "question": "A 6hours old snake bite patient comes to emergency with mild local edema at the injury site. On examination no abnormalities detected and lab repos are normal. Most appropriate management is",
+    "options": [
+      "Incision and suction",
+      "Wait and watch",
+      "Local subcutaneous antisnake venom",
+      "Intravenous antisnake venom"
+    ],
+    "correct": "Incision and suction",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_26",
+    "topic": "Pediatrics",
+    "difficulty": 3,
+    "question": "Which of the following agents is most commonly associated with recurrent meningitis due to CSF leaks?",
+    "options": [
+      "Meningococci",
+      "Pneumococci",
+      "Hemophilus Influenza",
+      "E. Coli"
+    ],
+    "correct": "Meningococci",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_27",
+    "topic": "Facial Nerve And Its Disorders",
+    "difficulty": 3,
+    "question": "Treatment of choice in traumatic facial nerve injury is:",
+    "options": [
+      "Facial sling",
+      "Facial nerve repair",
+      "Conservative management",
+      "Systemic corticosteroids"
+    ],
+    "correct": "Facial sling",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_28",
+    "topic": "Social & Preventive Medicine",
+    "difficulty": 3,
+    "question": "What is the best method of informing the rural population about Oral rehydration technique: March 2013 (d, f)",
+    "options": [
+      "Chalk and talk/Lecture",
+      "Demonstrations",
+      "Role play",
+      "Flash cards"
+    ],
+    "correct": "Chalk and talk/Lecture",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_31",
+    "topic": "Orthopaedics",
+    "difficulty": 3,
+    "question": "All are True about Acute Osteomyelitis except",
+    "options": [
+      "Common in children",
+      "Severe pain",
+      "Involves Epiphyseal plate",
+      "Treatment involves 6 weeks of Antibiotics"
+    ],
+    "correct": "Severe pain",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_33",
+    "topic": "Miscellaneous (Obs)",
+    "difficulty": 3,
+    "question": "Regarding vaginal candidiasis which one of the following is false:",
+    "options": [
+      "Cottage cheese like secretions are seen",
+      "Intense pruritus",
+      "Most common in non-pregnant women",
+      "Buds and hyphae seen in KOH preparation"
+    ],
+    "correct": "Intense pruritus",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_35",
+    "topic": "Mycology",
+    "difficulty": 3,
+    "question": "What is the most probable poal of entry of Aspergillus?",
+    "options": [
+      "Puncture wound",
+      "Blood",
+      "Lungs",
+      "Gastrointestinal tract"
+    ],
+    "correct": "Blood",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_36",
+    "topic": "Pediatrics",
+    "difficulty": 3,
+    "question": "For TOF management in antenatal period includes ?",
+    "options": [
+      "Balloon valvotomy",
+      "Open hea surgery",
+      "Karyotyping",
+      "Aspirin"
+    ],
+    "correct": "Open hea surgery",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_38",
+    "topic": "Dental",
+    "difficulty": 3,
+    "question": "If solid line represent the rigid height, then the following diagram with excessive inter arch space is classified in?",
+    "options": [
+      "Class - 1",
+      "Class - 2",
+      "Class - 3",
+      "Class - 4"
+    ],
+    "correct": "Class - 1",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_39",
+    "topic": "Social & Preventive Medicine",
+    "difficulty": 3,
+    "question": "Pearsonian measure of skewness -",
+    "options": [
+      "Mode - Mean/ SD",
+      "Mean - Mode/ SD",
+      "SD/Mode - mean",
+      "Mean - Mode/ SD"
+    ],
+    "correct": "Mode - Mean/ SD",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_40",
+    "topic": "Ophthalmology",
+    "difficulty": 3,
+    "question": "Following are the causes of sudden loss of vision except ?",
+    "options": [
+      "Angle closure glaucoma",
+      "Endophthalmitis",
+      "Central serous retinopathy",
+      "Corneal ulceration"
+    ],
+    "correct": "Central serous retinopathy",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_41",
+    "topic": "General anatomy",
+    "difficulty": 3,
+    "question": "All of the following are features of Lymph node histology except",
+    "options": [
+      "Subcapsular sinus present",
+      "Both Efferent and Afferent are present",
+      "Coex and Medulla are present",
+      "Red pulp and White pulp are present"
+    ],
+    "correct": "Coex and Medulla are present",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_44",
+    "topic": "Reversible Cell Injury",
+    "difficulty": 3,
+    "question": "All of the following statements are true regarding hyperophy, except:",
+    "options": [
+      "Occurs due to synthesis and assembly of additional intracellular components.",
+      "There is an increase in the size of the cells.",
+      "Cells capable of division respond to stress by hyperophy and hyperplasia.",
+      "There is an increase in the number of cells."
+    ],
+    "correct": "Cells capable of division respond to stress by hyperophy and hyperplasia.",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_46",
+    "topic": "Medicine",
+    "difficulty": 3,
+    "question": "All are true about temporal arteritis except -",
+    "options": [
+      "Can leads to sudden bilateral blindness",
+      "More corrunon in females",
+      "Worsen on exposure to heat",
+      "Mostly affects elderly"
+    ],
+    "correct": "More corrunon in females",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_48",
+    "topic": "Biosynthesis of Fatty Acids and Eicosanoids",
+    "difficulty": 3,
+    "question": "In chronic alcoholism the rate limiting component for alcohol metabolism excluding enzymes is/are : (PGI Dec 2008)",
+    "options": [
+      "NADP",
+      "NAD+",
+      "NADPH",
+      "FADH"
+    ],
+    "correct": "NADP",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "MEDMCQA_49",
+    "topic": "Other NHPs",
+    "difficulty": 3,
+    "question": "Minimum level of iodine iodized salt reaching the consumer level according to iodine programme should be:-",
+    "options": [
+      "5 ppm",
+      "30 ppm",
+      "15 ppm",
+      "20 ppm"
+    ],
+    "correct": "30 ppm",
+    "misconception": null,
+    "error_type": "conceptual"
+  },
+  {
+    "id": "CSV_0",
+    "topic": "Biology",
+    "difficulty": 3,
+    "question": "An anti-forest measure is",
+    "options": [
+      "Afforestation",
+      "Selective grazing",
+      "Clearing forest",
+      "Selective felling"
+    ],
+    "correct": "Afforestation",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_1",
+    "topic": "Chemistry",
+    "difficulty": 3,
+    "question": "Among the following organic acids, the acid present in rancid butter is:",
+    "options": [
+      "pyruvic acid",
+      "lactic acid",
+      "butyric acid",
+      "acetic acid"
+    ],
+    "correct": "pyruvic acid",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_2",
+    "topic": "Maths",
+    "difficulty": 3,
+    "question": "If the area of two similar triangles are equal, then they are",
+    "options": [
+      "equilateral",
+      "isosceles",
+      "congruent",
+      "not congruent"
+    ],
+    "correct": "equilateral",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_3",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "Which of the following statement\nregarding transformer is incorrect?",
+    "options": [
+      "A transformer makes use of Faradays Law.",
+      "The ferromagnetic properties of an iron core is used by it to efficiently raise or lower AC voltage",
+      "It cannot increase power so that if the voltage is raised, the current is proportionally lowered and vice versa.",
+      "The current induced in primary circuit is of same nature as in secondary circuit with differences in amplitude only."
+    ],
+    "correct": "A transformer makes use of Faradays Law.",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_4",
+    "topic": "Biology",
+    "difficulty": 3,
+    "question": "Fern plants reproduce by",
+    "options": [
+      "Seeds",
+      "Spores",
+      "Laying eggs",
+      "Giving birth to young fern plants"
+    ],
+    "correct": "Seeds",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_5",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "Electric current flows through:",
+    "options": [
+      "a conductor",
+      "an insulator",
+      "free space",
+      "none of these"
+    ],
+    "correct": "a conductor",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_6",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "A particle of mass \\( m \\) is made to move\nwith uniform speed \\( v \\) along the perimeter of a regular hexagon. The magnitude of impulse applied at each\ncorner is:",
+    "options": [
+      "\\( m v \\)",
+      "\\( m v \\sqrt{3} \\)",
+      "\\( \\frac{m v}{2} \\)",
+      "\\( \\frac{m v}{\\sqrt{3}} \\)"
+    ],
+    "correct": "\\( m v \\)",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_7",
+    "topic": "Maths",
+    "difficulty": 3,
+    "question": "The equation of the plane passing through the intersection of the planes \\( \\boldsymbol{x}+\\boldsymbol{y}+\\boldsymbol{z}=\\boldsymbol{6} \\) and \\( \\boldsymbol{2} \\boldsymbol{x}+\\boldsymbol{3} \\boldsymbol{y}+\\boldsymbol{4} \\boldsymbol{z}+\\boldsymbol{5}= \\)\n\\( 0, \\) and the point (1,1,1) is",
+    "options": [
+      "\\( 20 x+23 y+26 z-69=0 \\)",
+      "\\( 20 x+23 y+26 z+69=0 \\)",
+      "\\( 23 x+20 y+26 z-69=0 \\)",
+      "None of these"
+    ],
+    "correct": "\\( 20 x+23 y+26 z-69=0 \\)",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_8",
+    "topic": "Chemistry",
+    "difficulty": 3,
+    "question": "A ketone has molar mass \\( 86 . \\) Which of\nthe following cannot be IUPAC name of this ketone?",
+    "options": [
+      "2 -pentanone",
+      "2-methyl butanone",
+      "3 -methyl butanone",
+      "3 -pentanone"
+    ],
+    "correct": "2 -pentanone",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_9",
+    "topic": "Chemistry",
+    "difficulty": 3,
+    "question": "An ideal gas is compressed in a closed container its U?",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains same",
+      "Both (1) \\& (2)"
+    ],
+    "correct": "Increases",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_10",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "According to Stoke's law, the viscous drag force, on an oil drop is proportional\nto:",
+    "options": [
+      "\\( \\sqrt{V} \\)",
+      "\\( V^{2} \\)",
+      "\\( V^{-1} \\)",
+      "\\( V \\)"
+    ],
+    "correct": "\\( \\sqrt{V} \\)",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_11",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "was the first to discover\nthat lightning is electric discharge.",
+    "options": [
+      "Thomas Alva Edison",
+      "Nicolas Tesla",
+      "Benjamin Franklin",
+      "Isaac Newton"
+    ],
+    "correct": "Thomas Alva Edison",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_12",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "Assertion\nNewton's law of gravitation resembles Coulomb's law of electrical forces.\nReason\nCoulomb's law has the product of two charges in place of the product of the masses, and the electrostatic constant\nin place of the gravitational constant.",
+    "options": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion",
+      "Assertion is correct but Reason is incorrect",
+      "Both Assertion and Reason are incorrect"
+    ],
+    "correct": "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_13",
+    "topic": "Maths",
+    "difficulty": 3,
+    "question": "What percent of Rs.150 is Rs.30?",
+    "options": [
+      "5\\%",
+      "20\\%",
+      "30\\%",
+      "45\\%"
+    ],
+    "correct": "5\\%",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_14",
+    "topic": "Chemistry",
+    "difficulty": 3,
+    "question": "Which of the following will change the value of the equilibrium constant for the reaction?\n\\( N_{2}(g)+O_{2}(g) \\leftrightharpoons 2 N O(g) \\)",
+    "options": [
+      "Add more \\( N_{2} \\)",
+      "Increase of pressure",
+      "Use a smaller reaction vessel",
+      "Increase the temperature"
+    ],
+    "correct": "Add more \\( N_{2} \\)",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_15",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "A charged particle is projected in a plane perpendicular to uniform magnetic field. The areal velocity (area swept per unit time) of the particle is :\nThis question has multiple correct options",
+    "options": [
+      "directly proportional to kinetic energy of particle",
+      "directly proportional to momentum of the particle",
+      "inversely proportional to magnetic field strength",
+      "inversely proportional to charge on particle"
+    ],
+    "correct": "directly proportional to kinetic energy of particle",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_16",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "How the gravitational constant will change if a brass plate is introduced between two bodies?",
+    "options": [
+      "No change",
+      "Decreases",
+      "Increases",
+      "No sufficient data"
+    ],
+    "correct": "No change",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_17",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "The product of resistivity and conductivity of a cylindrical conductor depends on",
+    "options": [
+      "Temperature",
+      "Material",
+      "Area of cross-section",
+      "None of the above"
+    ],
+    "correct": "Temperature",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_18",
+    "topic": "Chemistry",
+    "difficulty": 3,
+    "question": "Electronic configuration \\( [\\boldsymbol{K} \\boldsymbol{r}] \\boldsymbol{4} \\boldsymbol{d}^{10} \\)\nbelongs to:",
+    "options": [
+      "Period(4) Group(10) Block(d)",
+      "Period(5) Group(12) Block (d)",
+      "Period(5) Group(10) Block \\( (d) \\)",
+      "Period(4) Group(12) Block(d)"
+    ],
+    "correct": "Period(4) Group(10) Block(d)",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_19",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "Seema is planning a trip to Kashmir this summer. Which of the following clothes should she definitely pack?",
+    "options": [
+      "Denim Jacket",
+      "Leather pants",
+      "Woolen sweater",
+      "cotton shirt"
+    ],
+    "correct": "Denim Jacket",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_20",
+    "topic": "Biology",
+    "difficulty": 3,
+    "question": "In rabbit and humans, the kidney is",
+    "options": [
+      "Metanephric",
+      "Mesonephric",
+      "Pronephric",
+      "Opisthonephric"
+    ],
+    "correct": "Metanephric",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_21",
+    "topic": "Maths",
+    "difficulty": 3,
+    "question": "Arrange in the descending order of the values:\nA: If (9,12) is one end of a focal chord of\nthe parabola \\( y^{2}=16 x \\) then the slope of\nit is\nB: The parabola \\( x^{2}=p y \\) passes\nthrough \\( (12,16), \\) the focal distance of the point is\nC: If the parabola \\( y^{2}=k x \\) passes\nthrough (9,6) then the value of \\( k \\) is\nD: The Ordinate of the point on the\nparabola \\( \\boldsymbol{y}^{2}=\\mathbf{3 6 x} \\) whose ordinate is\nthree times its abscissa is\nWrite the value of the above statements\nin the descending order",
+    "options": [
+      "\\( \\mathrm{B}, \\mathrm{D}, \\mathrm{C}, \\mathrm{A} \\)",
+      "\\( \\mathrm{B}, \\mathrm{D}, \\mathrm{A}, \\mathrm{C} \\)",
+      "\\( D, B, C, A \\)",
+      "A,B,C,D"
+    ],
+    "correct": "\\( \\mathrm{B}, \\mathrm{D}, \\mathrm{C}, \\mathrm{A} \\)",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_22",
+    "topic": "Biology",
+    "difficulty": 3,
+    "question": "Snake's venom is",
+    "options": [
+      "Alkaline in reaction",
+      "Acidic in reaction",
+      "Alkaline and rich fatty acids",
+      "Acidic and rich fatty acids"
+    ],
+    "correct": "Alkaline in reaction",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_23",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "The other name for larynx is",
+    "options": [
+      "voice processor",
+      "voice modulator",
+      "voice box",
+      "voice generator"
+    ],
+    "correct": "voice processor",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_24",
+    "topic": "Chemistry",
+    "difficulty": 3,
+    "question": "Internal resistance of a battery cell\nincreases with:",
+    "options": [
+      "increase in concentration of electrolyte",
+      "increase in distance between two electrodes",
+      "increase in area of the plates inside the electrolyte",
+      "increase in size of the electrodes"
+    ],
+    "correct": "increase in concentration of electrolyte",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_25",
+    "topic": "Chemistry",
+    "difficulty": 3,
+    "question": "Compare the properties of a typical metal and a non-metal on the basis of\nthe following.\n\nConductivity of heat and electricity:",
+    "options": [
+      "Metals are good conductor of heat and electricity",
+      "Non metals are good conductor of heat and electricity",
+      "Metals are bad conductor of heat and electricity",
+      "Both B and C"
+    ],
+    "correct": "Metals are good conductor of heat and electricity",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_26",
+    "topic": "Maths",
+    "difficulty": 3,
+    "question": "The following table shows the scores of\na group of 20 football players. Identify\nthe modal class.\n\\( \\begin{array}{lllll}\\text { Scores } & 7- & 14- & 21- & 28- \\\\ & 14 & 21 & 28 & 35\\end{array} \\)\nFootball 30 \\( 40 \\quad 20 \\) players",
+    "options": [
+      "\\( 28-35 \\)",
+      "\\( 21-28 \\)",
+      "\\( 7-14 \\)",
+      "\\( 35-42 \\)"
+    ],
+    "correct": "\\( 28-35 \\)",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_27",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "Mark out the incorrect statement:",
+    "options": [
+      "A free neutron can transform itself into photon",
+      "A free proton can transform itself into neutron",
+      "In beta minus decay, the electron originates from nucleus",
+      "All of the above"
+    ],
+    "correct": "A free neutron can transform itself into photon",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_28",
+    "topic": "Maths",
+    "difficulty": 3,
+    "question": "Find the slope and \\( y \\) -intercept of the\nline \\( \\boldsymbol{x}-\\boldsymbol{y}=\\mathbf{3} \\)",
+    "options": [
+      "slope \\( =2, y \\) -intercept \\( =-3 \\)",
+      "slope \\( =0, y \\) -intercept \\( =-3 \\)",
+      "slope \\( =1, y \\) -intercept \\( =-3 \\)",
+      "slope \\( =1, y \\) -intercept \\( =3 \\)"
+    ],
+    "correct": "slope \\( =2, y \\) -intercept \\( =-3 \\)",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_29",
+    "topic": "Biology",
+    "difficulty": 3,
+    "question": "Hydra reproduces by budding. This is an example of",
+    "options": [
+      "Asexual reproduction",
+      "Sexual reproduction",
+      "Regeneration",
+      "Parthenocarpy"
+    ],
+    "correct": "Asexual reproduction",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_30",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "The rays of light, which are not paralle to each other and spread out from a point, are called and\na bundle of rays, which are parallel to\none another, is called",
+    "options": [
+      "parallel beam of light, convergent rays",
+      "divergent rays, convergent rays",
+      "convergent rays, parallel beam of light",
+      "divergent rays, parallel beam of light"
+    ],
+    "correct": "parallel beam of light, convergent rays",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_31",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "Explain why :",
+    "options": [
+      "A body with large reflectivity is a poor emitter",
+      "A brass tumbler feels much colder\nthan a wooden tray on a chilly day",
+      "An optical pyrometer (for measuring high temperatures ) calibrated for an ideal black body radiation gives too low a value for the temperature of a red hot iron piece in the open but gives a correct value for the temperature when the same piece is in the furnace",
+      "The earth without its atmosphere would be inhospitably cold\n(e) Heating systems based on circulation of steam are more efficient\nin warming a building than those based on circulation of hot water"
+    ],
+    "correct": "A body with large reflectivity is a poor emitter",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_32",
+    "topic": "Chemistry",
+    "difficulty": 3,
+    "question": "The plot shows the variation of \\( -\\ln \\boldsymbol{K}_{\\boldsymbol{p}} \\)\nversus temperature for the two\nreactions.\n\\( M(s)+\\frac{1}{2} O_{2}(g) \\rightarrow M O(s) \\) and\n\\( C(s)+\\frac{1}{2} O_{2}(g) \\rightarrow C O(s) \\)\nIdentify the correct statement?",
+    "options": [
+      "\\( A t T>1200 K, \\) carbon will reduce \\( M O(s) \\) to \\( M(s) \\)",
+      "At \\( T<1200 \\mathrm{K} \\), oxidation of carbon is unfavourable.",
+      "At \\( T<1200 \\) K, the reaction \\( M O(s)+C(s) \\rightarrow M(s)+ \\)\n\\( C O(g) \\) is spontaneous",
+      "Oxidation of carbon is favourable at all temperatures"
+    ],
+    "correct": "\\( A t T>1200 K, \\) carbon will reduce \\( M O(s) \\) to \\( M(s) \\)",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_33",
+    "topic": "Chemistry",
+    "difficulty": 3,
+    "question": "Select the correct statement.",
+    "options": [
+      "Carbon-carbon bond order in graphite is more than diamond",
+      "Carbon-carbon bond order in graphite is less than diamond",
+      "Hybridization of each carbon in diamonds is \\( S p_{3} \\)",
+      "Hybridization of each carbon in graphite is \\( S p_{3} \\)"
+    ],
+    "correct": "Carbon-carbon bond order in graphite is more than diamond",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_34",
+    "topic": "Chemistry",
+    "difficulty": 3,
+    "question": "\\( \\mathbf{2} \\boldsymbol{C} \\boldsymbol{a}_{3}\\left(\\boldsymbol{P} \\boldsymbol{O}_{4}\\right)_{2}+\\boldsymbol{6} \\boldsymbol{S} \\boldsymbol{i} \\boldsymbol{O}_{2}+\\mathbf{1 0} \\boldsymbol{C} \\rightarrow \\boldsymbol{P}_{4}+ \\)\n\\( \\boldsymbol{C a} \\boldsymbol{S i O}_{3}+\\mathbf{1 0 C O} \\)\nWhich coefficient balances the reaction\ngiven above?",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "6"
+    ],
+    "correct": "2",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_35",
+    "topic": "Chemistry",
+    "difficulty": 3,
+    "question": "Diborane \\( \\left(B_{2} H_{6}\\right) \\) reacts independently\nwith \\( O_{2} \\) and \\( H_{2} O \\) to produce :",
+    "options": [
+      "\\( H B O_{2} \\) and \\( H_{3} B O_{3} \\)",
+      "\\( H_{3} B O_{3} \\) and \\( B_{2} O_{3} \\)",
+      "\\( B_{2} O_{3} \\) and \\( H_{3} B O_{3} \\)",
+      "\\( B_{2} O_{3} \\) and \\( \\left[B H_{4}\\right]^{-} \\)"
+    ],
+    "correct": "\\( H B O_{2} \\) and \\( H_{3} B O_{3} \\)",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_36",
+    "topic": "Biology",
+    "difficulty": 3,
+    "question": "If a plant cell is placed in deionised\nwater, the water potential of that cell\nbecomes",
+    "options": [
+      "More positive because pressure potential becomes more positive",
+      "More positive because pressure potential becomes more negative",
+      "More negative because pressure potential becomes more negative",
+      "Less negative because pressure potential becomes more positive"
+    ],
+    "correct": "More positive because pressure potential becomes more positive",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_37",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "If for a gas \\( \\frac{\\boldsymbol{R}}{\\boldsymbol{C}_{\\boldsymbol{v}}}=\\mathbf{0 . 6 7}, \\) then the gas is\nmade up of molecules which are :",
+    "options": [
+      "Diatomic",
+      "Monoatomic",
+      "Polyatomic",
+      "Mixture of Diatomic \\& Polyatomic"
+    ],
+    "correct": "Diatomic",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_38",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "In hydrogen atom, an electron is revolving in the orbit of radius \\( 0.53 \\dot{A} \\)\nwith \\( 6.6 \\times 10^{15} \\) radiation/s. Magnetic\nfield produced at the centre of the orbit is",
+    "options": [
+      "\\( 0.125 W b / m^{2} \\)",
+      "\\( 1.25 W b / m^{2} \\)",
+      "\\( 12.5 W b / m^{2} \\)",
+      "\\( 125 W b / m^{2} \\)"
+    ],
+    "correct": "\\( 0.125 W b / m^{2} \\)",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_39",
+    "topic": "Maths",
+    "difficulty": 3,
+    "question": "The normal at any point \\( \\boldsymbol{P}(\\boldsymbol{x}, \\boldsymbol{y}) \\) of \\( \\mathbf{a} \\)\ncurve meets the \\( x \\) -axis at \\( Q \\) and \\( N \\) is\nthe foot of the ordinate at \\( P \\)\n\nIf \\( N Q=\\frac{x\\left(1+y^{2}\\right)}{1+x^{2}}, \\) then equation of such curve, given that it passes through the point (3,1) is:",
+    "options": [
+      "\\( x^{2}-y^{2}=8 \\)",
+      "\\( x^{2}+2 y^{2}=11 \\)",
+      "\\( x^{2}-5 y^{2}=4 \\)",
+      "\\( x^{2}+3 y^{2}=7 \\)"
+    ],
+    "correct": "\\( x^{2}-y^{2}=8 \\)",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_40",
+    "topic": "Chemistry",
+    "difficulty": 3,
+    "question": "A beaker contains a saturated solution\nof copper(l) chloride. Copper(l) chloride is slightly soluble salt with a solubility product of \\( 1.2 \\times 10^{-6} \\)\nWhich of the following salts when added to the solution would precipitate\ncopper(l) chloride?",
+    "options": [
+      "Sodium chloride",
+      "Potassium bromide",
+      "Silver(I) nitrate",
+      "Lead(II) acetate\nE. Magnesium iodide"
+    ],
+    "correct": "Sodium chloride",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_41",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "Higher the refractive index of a medium",
+    "options": [
+      "Less it will change the direction of a beam of light passing through it",
+      "More it will change the direction of a beam of light passing through it",
+      "No bending occurs",
+      "All"
+    ],
+    "correct": "Less it will change the direction of a beam of light passing through it",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_42",
+    "topic": "Chemistry",
+    "difficulty": 3,
+    "question": "The state of equilibrium refers to:",
+    "options": [
+      "State of rest",
+      "Dynamic state",
+      "Stationary state",
+      "State of inertness"
+    ],
+    "correct": "State of rest",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_43",
+    "topic": "Chemistry",
+    "difficulty": 3,
+    "question": "Internal energy does not include",
+    "options": [
+      "vibrational energy",
+      "rotational energy",
+      "energy arising by gravitational pull",
+      "nuclear energy"
+    ],
+    "correct": "vibrational energy",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_44",
+    "topic": "Chemistry",
+    "difficulty": 3,
+    "question": "The pH of \\( D_{2} O \\) and \\( H_{2} O \\) at \\( 298 \\mathrm{K} \\) is:",
+    "options": [
+      "7.0, 7.0",
+      "7.35, 7.0",
+      "7.0,6.85",
+      "6.85,7.35"
+    ],
+    "correct": "7.0, 7.0",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_45",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "The magnetic field generated along the axis of a solenoid is proportional to:",
+    "options": [
+      "its length",
+      "square of current flowing in it",
+      "number of turns per unit length in it",
+      "reciprocal of its radius"
+    ],
+    "correct": "its length",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_46",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "A ball thrown in the air reaches a height of \\( 10 \\mathrm{m} \\) and drops down to the ground. Find the time taken by the ball to complete this entire journey.",
+    "options": [
+      "\\( 2.78 \\mathrm{sec} \\)",
+      "3.40 sec",
+      "1.43 sec",
+      "2.86 sec"
+    ],
+    "correct": "\\( 2.78 \\mathrm{sec} \\)",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_47",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "In stationary waves, nodes are the\npoints where there is:",
+    "options": [
+      "maximum displacement and minimum pressure change",
+      "minimum displacement and maximum pressure change",
+      "minimum displacement and minimum pressure change",
+      "maximum displacement and maximum pressure change"
+    ],
+    "correct": "maximum displacement and minimum pressure change",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_48",
+    "topic": "Physics",
+    "difficulty": 3,
+    "question": "For a metallic wire, the ratio \\( \\frac{V}{i} \\) (where,\n\\( \\mathbf{V}= \\) applied potential difference and \\( \\mathbf{i}= \\)\ncurrent flowing",
+    "options": [
+      "is independent of temperature",
+      "increases as the temperature rises",
+      "decreases as the temperature rises",
+      "increases or decreases as temperature rises depending upon the metal."
+    ],
+    "correct": "is independent of temperature",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  },
+  {
+    "id": "CSV_49",
+    "topic": "Chemistry",
+    "difficulty": 3,
+    "question": "Assertion\nThe change in internal energy and change in heat enthalpy does not depend upon the path by which changes are brought in.\nReason\nBoth \\( \\Delta U \\) and \\( \\Delta H \\) are path independent as U and H are state functions.",
+    "options": [
+      "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+      "Both Assertion and Reason are correct but Reason is not the correct explanation for Assertion",
+      "Assertion is correct but Reason is incorrect.",
+      "Assertion is incorrect but Reason is correct"
+    ],
+    "correct": "Both Assertion and Reason are correct and Reason is the correct explanation for Assertion.",
+    "misconception": "Mock misconception description.",
+    "error_type": "conceptual",
+    "source": "subjects-questions.csv"
+  }
+]

@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+psycopg2-binary
+python-multipart
+jinja2
+requests
+openai
+numpy
+sentence-transformers
+faiss-cpu
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
